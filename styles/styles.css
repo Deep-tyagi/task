@@ -220,10 +220,6 @@ body {
     padding: 20px 15px;
   }
 
-  /* .main-page-content {
-    height: 100%;
-  } */
-
   .main-image {
     height: 100%;
   }
@@ -233,7 +229,7 @@ body {
   }
 
   .blur-container {
-    top: 60%;
+    top: 70%;
   }
 
   .title-orange,
@@ -244,7 +240,7 @@ body {
   .text-container {
     padding-right: 35px;
     line-height: 50px;
-    top: 56%;
+    top: 68%;
   }
 
   .slider-menu {
@@ -262,4 +258,15 @@ body {
   .title-white {
     font-size: 35px;
   }
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    .text-container {
+      padding-right: 55px;
+      line-height: 50px;
+      top: 68%;
+    }
 }
