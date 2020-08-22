@@ -86,10 +86,10 @@ body {
 }
 
 .menu-btn__burger::before {
-  transform: translateY(-10px);
+  transform: translateY(-15px);
 }
 .menu-btn__burger::after {
-  transform: translateY(10px);
+  transform: translateY(15px);
 }
 
 /* ANIMATION */
