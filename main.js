@@ -9,3 +9,6 @@ menuBtn.addEventListener('click', () => {
         menuOpen = false;
     }
 });
+
+
+var scroll = new SmoothScroll('a[href*="#"]');
