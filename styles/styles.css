@@ -221,7 +221,7 @@ body {
   }
 
   .main-page-content {
-    height: 90%;
+    height: 100%;
   }
 
   .main-image {
@@ -233,7 +233,7 @@ body {
   }
 
   .blur-container {
-    top: 70%;
+    top: 60%;
   }
 
   .title-orange,
@@ -242,9 +242,9 @@ body {
   }
 
   .text-container {
-    padding-right: 45px;
+    padding-right: 35px;
     line-height: 50px;
-    top: 69%;
+    top: 56%;
   }
 
   .slider-menu {
